@@ -6,7 +6,11 @@ namespace ApplicationZodiac
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Application Zodiac");
+
+            Console.WriteLine("Welcome to my application");
+
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             string choice = "";
             do
